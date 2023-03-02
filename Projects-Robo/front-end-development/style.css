@@ -1,0 +1,11 @@
+:root{
+    --tomato-color: #F3726A;
+    --navy-blue: #53C4C7;
+    --white: #FFFFFF;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
